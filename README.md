@@ -1,1 +1,1 @@
-# projetoEden
+# Este repositório é apenas usado para que eu me especialize em NetBeans
